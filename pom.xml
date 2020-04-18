@@ -14,7 +14,7 @@
 		<spring-cloud-contract.version>2.2.1.RELEASE</spring-cloud-contract.version>
 	</properties>
 	<build>
-		<sourceDirectory>ref-todo-sv-consumer/src</sourceDirectory>
+		<sourceDirectory>ref-todo-sv-consumer/ref-todo-sv-consumer/src</sourceDirectory>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
